@@ -85,4 +85,4 @@ jobs:
       - name: DAST (ZAP Scan)
         uses: zaproxy/action-full-scan@v0.12.0   #https://github.com/marketplace/actions/zap-full-scan
         with:
-          target: 'https://henriquecavichioli-fgxq5tbfwq-ue.a.run.app/`
+          target: 'https://henriquecavichioli-fgxq5tbfwq-ue.a.run.app/'
